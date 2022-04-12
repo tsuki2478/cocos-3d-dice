@@ -1,0 +1,11 @@
+{
+  "__version__": "1.0.1",
+  "physics": {
+    "defaultMaterial": {
+      "restitution": 0.1,
+      "rollingFriction": 0.1,
+      "spinningFriction": 0.1
+    },
+    "fixedTimeStep": 0.0166667
+  }
+}

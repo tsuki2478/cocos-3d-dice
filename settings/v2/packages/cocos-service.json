@@ -1,0 +1,60 @@
+{
+  "game": {
+    "app_id": "637847090",
+    "name": "cocos",
+    "c_id": "0"
+  },
+  "appConfigMaps": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "97adc6"
+    },
+    {
+      "app_id": "637847090",
+      "config_id": "c2bd78"
+    }
+  ],
+  "configs": [
+    {
+      "app_id": "UNKNOW",
+      "config_id": "97adc6",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "278",
+          "enable": false,
+          "param": {}
+        },
+        {
+          "service_id": "235",
+          "enable": false,
+          "param": {}
+        }
+      ]
+    },
+    {
+      "app_id": "637847090",
+      "config_id": "b0897a",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": []
+    },
+    {
+      "app_id": "637847090",
+      "config_id": "c2bd78",
+      "config_name": "Default",
+      "config_remarks": "",
+      "services": [
+        {
+          "service_id": "235",
+          "enable": true,
+          "param": {
+            "app_id": "637847090",
+            "store_id": "H5"
+          }
+        }
+      ]
+    }
+  ]
+}

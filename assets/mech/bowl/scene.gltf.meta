@@ -1,0 +1,63 @@
+{
+  "ver": "2.1.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "191ab21b-47c1-4686-acdb-11385e5cc1d5",
+  "files": [],
+  "subMetas": {
+    "e8c78": {
+      "importer": "gltf-mesh",
+      "uuid": "191ab21b-47c1-4686-acdb-11385e5cc1d5@e8c78",
+      "displayName": "",
+      "id": "e8c78",
+      "name": "Cylinder_0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "191ab21b-47c1-4686-acdb-11385e5cc1d5@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "191ab21b-47c1-4686-acdb-11385e5cc1d5@d1932",
+    "assetFinder": {
+      "meshes": [
+        "191ab21b-47c1-4686-acdb-11385e5cc1d5@e8c78"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "749d7068-3a6a-4104-a56c-859c32a886a3"
+      ],
+      "scenes": [
+        "191ab21b-47c1-4686-acdb-11385e5cc1d5@d1932"
+      ]
+    },
+    "depthWriteInAlphaModeBlend": true,
+    "dumpMaterials": true,
+    "materialDumpDir": "db://assets/mech/bowl/Materials_scene"
+  }
+}

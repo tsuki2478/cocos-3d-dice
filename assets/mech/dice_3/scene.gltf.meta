@@ -1,0 +1,159 @@
+{
+  "ver": "2.1.4",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5b4a4747-823d-420b-9b31-f77052249279",
+  "files": [],
+  "subMetas": {
+    "bcca5": {
+      "importer": "gltf-mesh",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@bcca5",
+      "displayName": "",
+      "id": "bcca5",
+      "name": "UnnamedMesh.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3effa": {
+      "importer": "texture",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@3effa",
+      "displayName": "",
+      "id": "3effa",
+      "name": "UnnamedTexture-0.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/mech/dice_3/textures/Dice_baseColor.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "221a5": {
+      "importer": "texture",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@221a5",
+      "displayName": "",
+      "id": "221a5",
+      "name": "UnnamedTexture-1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/mech/dice_3/textures/Dice_metallicRoughness.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0089c": {
+      "importer": "texture",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@0089c",
+      "displayName": "",
+      "id": "0089c",
+      "name": "UnnamedTexture-2.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/mech/dice_3/textures/Dice_normal.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b7f94": {
+      "importer": "gltf-material",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@b7f94",
+      "displayName": "",
+      "id": "b7f94",
+      "name": "Dice.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d1932": {
+      "importer": "gltf-scene",
+      "uuid": "5b4a4747-823d-420b-9b31-f77052249279@d1932",
+      "displayName": "",
+      "id": "d1932",
+      "name": "scene.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "uri": "db://assets/mech/dice_3/textures/Dice_baseColor.png"
+      },
+      {
+        "uri": "db://assets/mech/dice_3/textures/Dice_metallicRoughness.png"
+      },
+      {
+        "uri": "db://assets/mech/dice_3/textures/Dice_normal.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "5b4a4747-823d-420b-9b31-f77052249279@d1932",
+    "assetFinder": {
+      "meshes": [
+        "5b4a4747-823d-420b-9b31-f77052249279@bcca5"
+      ],
+      "skeletons": [],
+      "textures": [
+        "5b4a4747-823d-420b-9b31-f77052249279@3effa",
+        "5b4a4747-823d-420b-9b31-f77052249279@221a5",
+        "5b4a4747-823d-420b-9b31-f77052249279@0089c"
+      ],
+      "materials": [
+        "5b4a4747-823d-420b-9b31-f77052249279@b7f94"
+      ],
+      "scenes": [
+        "5b4a4747-823d-420b-9b31-f77052249279@d1932"
+      ]
+    }
+  }
+}
